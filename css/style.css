@@ -1,0 +1,104 @@
+body {
+    background-color: rgba(44, 41, 55, 0.998);
+    font-size: 18px;
+    color: whitesmoke;
+}
+
+
+h1 {
+    font-size: 70px;
+    color: rgb(3, 148, 3);
+    margin:100px;
+    text-align: center;
+    justify-content: center;
+}
+
+h2 { 
+    font-size: 40px;
+    color: blueviolet;
+}
+
+
+.first-section {
+    display: flex;
+    align-items: center;
+    color:black;
+    background-color: white;
+    padding: 200px 50px 100px 50px;
+    background-image: url(../img/ace.webp);
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    
+
+    
+    
+
+}
+
+.ace {
+    float: right;
+    margin-top: -100px;
+    
+    
+}
+
+    
+
+
+.first-para {
+    color: whitesmoke;
+    font-size: 21px;
+    padding-top: 25px;
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    margin-right: 300px;
+    margin-top: -100px;
+    background-color: rgba(44, 41, 55, 0.998);
+    border-radius: 20px;
+    
+
+    
+    
+
+    
+}
+
+.second-section {
+    background-image: url(../img/matrix.jpg);
+    padding: 100px 200px 300px 600px;
+    text-align: right;
+    background-size: cover;
+    background-position: center;
+}
+
+.anchor-section {
+    color:black;
+    background-color: white;
+    padding: 100px 400px 300px 200px;
+}
+
+
+
+span {
+    color: yellow;
+    font-size: 24px;
+}
+
+
+/* this is a css comment */
+
+/* this CSS box model 
+    margin:
+    border:
+    padding:
+*/
+
+.box {
+    background: whitesmoke;
+    width: 300px;
+    margin: 500px;
+    
+}
